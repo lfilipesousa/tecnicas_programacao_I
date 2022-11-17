@@ -55,3 +55,4 @@ São 3 arquivos que devem ser carregados para responder as perguntas.
 - Qual é a soma do total investido por cada estado?
 - Como os investidores se distribuem em promotores, detratores e neutros?
 - Qual é a média do total investido por promotores, detratores e neutros?
+.
