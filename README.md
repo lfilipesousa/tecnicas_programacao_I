@@ -14,17 +14,23 @@ São 3 arquivos que devem ser carregados para responder as perguntas.
 
 1 - Carregar os arquivos e cadastro, investimento1 e investimento2 e mostrar a quantidade de linhas de cada um, além das informações desses dataframes
 
+
 2 - Juntar os dataframes de investimento1 e investimento2 em um só e ver a quantidade de linhas
+
 
 3 - Crie um novo dataframe eliminando as linhas duplicadas
 
+
 4 - Junte o dataframe de investimento com o de cadastro
 
+
 5 - Ordene o dataframe pelo id, de forma crescente e redefina o índice
+
 
 6 - Faça uma análise dos dados faltantes e trate-os
 
         Mostre todas as colunas com dados faltantes, sua quantidade/porcentagem e como tratar (preencher) cada uma delas explicando sua estratégia
+
 
 7 - Manipule os dados a seguir:
 - Criar coluna "Total" somando o valor de todos os ativos por investidor
@@ -35,6 +41,7 @@ São 3 arquivos que devem ser carregados para responder as perguntas.
 - Transformar os dados da coluna Media em inteiro
 - Criar coluna "NPS" onde o investidor é promotor se a média das notas é maior igual a 80, neutro se a média estiver entre 50 e 80, e detrator se for abaixo de 50
 
+
 8 - Calcule os seguintes dados
 
 - Calcule o total investido em cada coluna Ativo (tente usar o apply)
@@ -42,6 +49,7 @@ São 3 arquivos que devem ser carregados para responder as perguntas.
 - Mostre a média e desvio padrão de cada ativo
 - Qual a idade do investidor mais velho?
 - Qual a mediana da coluna Média?
+
 
 9 - Responder as perguntas abaixo
 
